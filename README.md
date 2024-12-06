@@ -18,7 +18,7 @@ CREATE TABLE hobbies (
       REFERENCES me(id)
 );
 
-INSERT INTO ashleytdavis
+INSERT INTO me
 VALUES ('Ashley', 'Davis', 'Northeastern University',
         'B.S. in Computer Science', 'ashley921davis@gmail.com');
 

@@ -27,7 +27,9 @@ VALUES (1, 'Fencing 🤺'), (1, 'Lifting 💪'), (1, 'Gaming 🎮'), (1, 'Crossw
 ```
 
 Hi there! My name is Ashley Davis, a 21 year old programmer from Riverdale, NJ (nothing like the [tv show](https://en.wikipedia.org/wiki/Riverdale_(American_TV_series))). Welcome to my github porfolio!
-During my time at Northeastern University, I partook in several extracirriculars to pursue my interests both inside, and outside of the classroom.
+
+### Stats
+[![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleytdavis)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -7,7 +7,7 @@ CREATE TABLE me (
   lastName VARCHAR(30),
   school VARCHAR(100),
   degree VARCHAR(200),
-  email NOT NULL VARCHAR(100)
+  email VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE hobbies (
@@ -18,7 +18,7 @@ CREATE TABLE hobbies (
       REFERENCES me(id)
 );
 
-INSERT INTO me
+INSERT INTO me (firstName, lastName, school, degree, email)
 VALUES ('Ashley', 'Davis', 'Northeastern University',
         'B.S. in Computer Science', 'ashley921davis@gmail.com');
 

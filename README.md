@@ -1,7 +1,7 @@
 ## 👋 Hi there! 
 
 ```SQL
-CREATE TABLE me (
+CREATE TABLE profile (
   id INT AUTO_INCREMENT PRIMARY KEY,
   firstName VARCHAR(30),
   lastName VARCHAR(30),
@@ -18,7 +18,7 @@ CREATE TABLE hobbies (
       REFERENCES me(id)
 );
 
-INSERT INTO me (firstName, lastName, school, degree, email)
+INSERT INTO profile (firstName, lastName, school, degree, email)
 VALUES ('Ashley', 'Davis', 'Northeastern University',
         'B.S. in Computer Science', 'ashley921davis@gmail.com');
 

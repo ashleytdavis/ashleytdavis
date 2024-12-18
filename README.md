@@ -15,7 +15,7 @@ CREATE TABLE hobbies (
     id INT NOT NULL,            
     hobby VARCHAR(255) NOT NULL,
     FOREIGN KEY (id)
-      REFERENCES me(id)
+      REFERENCES profile(id)
 );
 
 INSERT INTO profile (firstName, lastName, school, degree, email)

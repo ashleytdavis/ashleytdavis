@@ -30,7 +30,7 @@ Hi there! My name is Ashley Davis, a 21 year old programmer from Riverdale, NJ (
 
 ### Stats
 [![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleytdavis)](https://github.com/anuraghazra/github-readme-stats)
-![Ashley's Duolingo Stats](https://github-duolingo-widget.onrender.com/duolingo-badge?username=a-shelly123)
+![Ashley's Duolingo Stats](https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=a-shelly123)
 
 
 

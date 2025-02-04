@@ -1,4 +1,4 @@
-## 👋 Hi there! 
+## Hi there! <img src="https://raw.githubusercontent.com/ashleytdavis/ashleytdavis/main/wave.gif" width="30px">
 
 ```SQL
 CREATE TABLE profile (

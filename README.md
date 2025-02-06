@@ -10,10 +10,8 @@ My name is Ashley Davis, a 21 year old programmer from Riverdale, NJ (nothing li
 [![Web Dev Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vite,bootstrap,tailwind)](https://skillicons.dev)
 #### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,mongo,flask,firebase)](https://skillicons.dev)
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,vim,vscode,eclipse,idea,pycharm,latex,photoshop)](https://skillicons.dev)
-#### OS
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+#### Tools / OS
+[![My Skills](https://skillicons.dev/icons?i=docker,git,vim,vscode,eclipse,idea,pycharm,latex,photoshop,linux,windows)](https://skillicons.dev)
 #### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=aws,redis)](https://skillicons.dev)
 

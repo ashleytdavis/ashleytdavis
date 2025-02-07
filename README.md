@@ -14,8 +14,3 @@ My name is Ashley Davis, a 21 year old programmer from Riverdale, NJ (nothing li
 [![My Skills](https://skillicons.dev/icons?i=docker,git,vim,vscode,eclipse,idea,pycharm,latex,photoshop,linux,windows)](https://skillicons.dev)
 #### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=aws,redis)](https://skillicons.dev)
-
-
-### Stats
-[![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleytdavis)](https://github.com/anuraghazra/github-readme-stats)
-![Ashley's Duolingo Stats](https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=a-shelly123)

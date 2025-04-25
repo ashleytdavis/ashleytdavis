@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/ashleytdavis/ashleytdavis/main/wave.gif" width="30px">
 <div>
-My name is Ashley Davis, a 21 year old programmer from Riverdale, NJ (nothing like the <a href="https://en.wikipedia.org/wiki/Riverdale_(American_TV_series)" target="_blank">tv show</a>). I'm a fourth-year undergraduate at Northeastern University studying Computer Science. Check out my personal website <a href="https://ashleytdavis.com" target="_blank">here</a>!
+My name is Ashley Davis, a 21 year old programmer from Riverdale, NJ (nothing like the <a href="https://en.wikipedia.org/wiki/Riverdale_(American_TV_series)" target="_blank">tv show</a>). Check out my personal website <a href="https://ashleytdavis.com" target="_blank">here</a>!
 </div>
 
 <!--
